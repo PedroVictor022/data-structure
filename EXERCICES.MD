@@ -5,10 +5,6 @@
 4 - Escreva um programa que inverte a ordem dos caracteres de uma string.
 5 - Escreva um programa que verifica se uma string é um palíndromo.
 6 - Escreva um programa que conta a quantidade de ocorrências de uma determinada palavra em uma string.
-7 - Escreva um programa que substitui todas as ocorrências de uma palavra por outra em uma string.
-8 - Escreva um programa que separa uma string em uma lista de palavras.
-9 - Escreva um programa que junta uma lista de palavras em uma string, separando-as por um determinado caractere.
-10 - Escreva um programa que verifica se uma string começa ou termina com uma determinada palavra.
 
 <!-- NIVEL FACIL APRIMORADO -->
 11 - Escreva um programa que imprime todos os elementos de um array.
