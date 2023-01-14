@@ -16,7 +16,7 @@
 ##### - ##### - ##### - ##### - ##### - ##### - ##### - ##### - ##### - 
 
 16 - Escreva um programa que insere um elemento em uma determinada posição de um array.
-17 - Escreva um programa que remove um elemento de uma determinada posição de um array.
+17 - Escreva um programa que remove um elemento de uma determinada posição de um array. [x] - Here
 18 - Escreva um programa que inverte a ordem dos elementos de um array.
 19 - Escreva um programa que verifica se um determinado elemento está presente em um array.
 20 - Escreva um programa que conta a quantidade de ocorrências de um determinado elemento em um array.
