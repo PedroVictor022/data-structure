@@ -12,6 +12,9 @@
 13 - Escreva um programa que encontra o menor elemento de um array.
 14 - Escreva um programa que encontra a soma de todos os elementos de um array.
 15 - Escreva um programa que encontra a média de todos os elementos de um array.
+
+##### - ##### - ##### - ##### - ##### - ##### - ##### - ##### - ##### - 
+
 16 - Escreva um programa que insere um elemento em uma determinada posição de um array.
 17 - Escreva um programa que remove um elemento de uma determinada posição de um array.
 18 - Escreva um programa que inverte a ordem dos elementos de um array.
