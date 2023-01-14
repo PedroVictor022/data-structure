@@ -16,7 +16,6 @@
 ##### - ##### - ##### - ##### - ##### - ##### - ##### - ##### - ##### - 
 
 16 - Escreva um programa que insere um elemento em uma determinada posição de um array.
-17 - Escreva um programa que remove um elemento de uma determinada posição de um array. [x] - Here
 18 - Escreva um programa que inverte a ordem dos elementos de um array.
 19 - Escreva um programa que verifica se um determinado elemento está presente em um array.
 20 - Escreva um programa que conta a quantidade de ocorrências de um determinado elemento em um array.
@@ -34,16 +33,16 @@
 30 - Escreva um programa que envia uma requisição GET para uma determinada URL com cabeçalhos personalizados e imprime o conteúdo da resposta.
 
 <!-- HARD -->
-31 - Escreva um programa que verifica se um número é par ou ímpar.
+31 - Escreva um programa que verifica se um número é par ou ímpar. x
 32 - Escreva um programa que verifica se um número é primo.
-33 - Escreva um programa que encontra o maior número entre três números fornecidos.
-34 - Escreva um programa que verifica se uma string é um palíndromo.
-35 - Escreva um programa que verifica se um ano é bissexto.
+33 - Escreva um programa que encontra o maior número entre três números fornecidos. x
+34 - Escreva um programa que verifica se uma string é um palíndromo. x
+35 - Escreva um programa que verifica se um ano é bissexto. 
 36 - Escreva um programa que verifica se um número é divisível por 3 e 5 ao mesmo tempo.
 37 - Escreva um programa que verifica se um número está entre dois outros números.
-38 - Escreva um programa que verifica se um número é negativo ou positivo.
+38 - Escreva um programa que verifica se um número é negativo ou positivo. x
 39 - Escreva um programa que verifica se uma string é um número.
-40 - Escreva um programa que verifica se uma string tem uma determinada letra.
+40 - Escreva um programa que verifica se uma string tem uma determinada letra. x
 41 - Escreva um programa que verifica se um número está entre 0 e 100.
 42 - Escreva um programa que verifica se um número é inteiro ou decimal.
 43 - Escreva um programa que verifica se uma string é um email válido.
