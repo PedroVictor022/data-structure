@@ -4,3 +4,4 @@ function lengthToStr(str) {
 
 const text = 'Hello';
 lengthToStr(text);
+//
